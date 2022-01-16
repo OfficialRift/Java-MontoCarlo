@@ -5,7 +5,7 @@ public class Calcpi{
 
         double x, y; 
 
-        for (int i = 0; i < 1000000 ; i++)
+        for (int i = 0; i < 100000; i++)
         {
            x = Math.random();      // Simulate random points
            y = Math.random();      // random between 1 and 0 (exclusive)
